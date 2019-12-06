@@ -5,5 +5,6 @@ def run_guessing_game
   
   if input == ran_num.to_s 
     puts "You guessed the correct number!"
-    
+  elsif
+    input.down
 end
