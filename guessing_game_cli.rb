@@ -4,5 +4,6 @@ def run_guessing_game
   input = gets.chomp
   
   if input == ran_num.to_s 
+    puts "You guessed the correct number!"
     
 end
